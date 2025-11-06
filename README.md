@@ -6,8 +6,8 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently finding a full time job since i just graduated!
-- 🌱 I’m currently learning JavaSvript and Theree.js
-- 📫 How to reach me: trough LinkedIn 
+- 🌱 I’m currently learning JavaScript and Three.js
+- 📫 How to reach me: www.linkedin.com/in/maisaramarino1
 - ⚡ Fun fact: I really love Cats and photography
 
 
