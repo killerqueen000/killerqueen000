@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently finding a full time job since i just graduated!
-- 🌱 I’m currently learning JavaSvript and PHP
+- 🌱 I’m currently learning JavaSvript and Theree.js
 - 📫 How to reach me: trough LinkedIn 
 - ⚡ Fun fact: I really love Cats and photography
 
